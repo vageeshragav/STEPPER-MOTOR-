@@ -47,7 +47,7 @@ For running the stepper motor in clockwise and anticlockwise directions:
 
 ## PROGRAM
 
-```asm
+
 ; Stepper Motor Interfacing Program in 8086 Assembly
 
 START:   MOV DI, 1200H        ; Initialize memory location to store array
