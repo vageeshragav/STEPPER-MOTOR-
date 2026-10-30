@@ -8,7 +8,7 @@ To write an assembly language program in 8086 to rotate the motor at different s
 ## APPARATUS REQUIRED
 
 | S. No | Item                        | Specification   | Quantity |
-|-------|-----------------------------|-----------------|----------|
+|-------|-----------------------------|-----------------|----------| 
 | 1     | Microprocessor kit          | 8086            | 1        |
 | 2     | Power Supply                | +5 V DC, +12 V DC | 1      |
 | 3     | Stepper Motor Interface board | -             | 1        |
